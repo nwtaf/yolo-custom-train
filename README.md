@@ -1,6 +1,4 @@
-# Project Title
-
-"Minimalist Approach to Training YOLOv8 with Images"
+# Minimalist Approach to Training YOLOv8 with Images
 
 ## Description
 
