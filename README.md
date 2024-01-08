@@ -50,6 +50,8 @@ In the 'src' directory there are several files:
 * annotationtest.py: verify that annotations match the image
 * main.py: depreciated, may eventually automate workflow
 
+It is recommended to split a dataset into training, validation, and testing sets using the common rule of thumb: the 70-15-15 rule, where 70% of images are used for training, 15% are used for validation, and 15% are used for testing. For example, if the apple dataset with 535 images and annotations is used, 375 would be used for training, 80 for validation, and 79 images with annotations for testing. Make sure the image and corresponding annotation make it into the proper data folders (e.g. the same data/images/testing needs to have the same corresponding annotations in data/images/testing).
+
 ## License
 
 Nothing yet. Please feel free to use any part of my work!
