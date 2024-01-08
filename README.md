@@ -3,7 +3,7 @@
 ## Description
 
 Simple and minmized implementation of how to modify a yolov8n.pt model into a custom model. 
-I recommend a sample dataset from an [apple tree dataset](https://github.com/RoyVoetman/generated-apple-trees-fine-tuning) that includes annotations for 535 images of apple trees. Includes use of [ClearMl](https://clear.ml/docs/latest/docs/getting_started/mlops/mlops_first_steps/?utm_campaign=Signup%20Onboarding&utm_medium=email&_hsmi=234908432&_hsenc=p2ANqtz-9su_0Lu03rS1PJgSus3HmJKQoVU1VMAzfp3BM7Vje904BzFpog3MILNiHCETGbXXyTluuHVLQ374r5hbBjb8loARXwmA&utm_content=234908432&utm_source=hs_automation). 
+I recommend [apple tree dataset](https://github.com/RoyVoetman/generated-apple-trees-fine-tuning), which includes annotations for 535 images of apple trees. This project also includes the use of [ClearMl](https://clear.ml/docs/latest/docs/getting_started/mlops/mlops_first_steps/?utm_campaign=Signup%20Onboarding&utm_medium=email&_hsmi=234908432&_hsenc=p2ANqtz-9su_0Lu03rS1PJgSus3HmJKQoVU1VMAzfp3BM7Vje904BzFpog3MILNiHCETGbXXyTluuHVLQ374r5hbBjb8loARXwmA&utm_content=234908432&utm_source=hs_automation). 
 
 ## Installation
 
