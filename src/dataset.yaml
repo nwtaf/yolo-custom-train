@@ -1,0 +1,12 @@
+train: ../data/images/train 
+val: ../data/images/val/
+test: ../data/images/test/
+
+# number of classes - this line might be unecessary
+nc: 1
+
+# class names
+names: 
+  0: 'apple_tree'
+
+# https://www.kaggle.com/discussions/general/404992
