@@ -3,7 +3,7 @@
 ## Description
 
 Simple and minmized implementation of how to modify a yolov8n.pt model into a custom model. 
-I recommend [apple tree dataset](https://github.com/RoyVoetman/generated-apple-trees-fine-tuning), which includes annotations for 535 images of apple trees. This project also includes the use of [ClearMl](https://clear.ml/docs/latest/docs/getting_started/mlops/mlops_first_steps/?utm_campaign=Signup%20Onboarding&utm_medium=email&_hsmi=234908432&_hsenc=p2ANqtz-9su_0Lu03rS1PJgSus3HmJKQoVU1VMAzfp3BM7Vje904BzFpog3MILNiHCETGbXXyTluuHVLQ374r5hbBjb8loARXwmA&utm_content=234908432&utm_source=hs_automation). 
+I recommend [apple tree dataset](https://github.com/RoyVoetman/generated-apple-trees-fine-tuning), which includes annotations that adhere to the yolo format, for 535 images of apple trees. This project also includes the use of [ClearMl](https://clear.ml/docs/latest/docs/getting_started/mlops/mlops_first_steps/?utm_campaign=Signup%20Onboarding&utm_medium=email&_hsmi=234908432&_hsenc=p2ANqtz-9su_0Lu03rS1PJgSus3HmJKQoVU1VMAzfp3BM7Vje904BzFpog3MILNiHCETGbXXyTluuHVLQ374r5hbBjb8loARXwmA&utm_content=234908432&utm_source=hs_automation). 
 
 ## Installation
 
@@ -20,7 +20,7 @@ Follow these steps to install and set up the project:
 
     Change your current directory to the project's directory:
 
-    'cd repository'
+    `cd repository`
 
     Replace repository with the name of your repository.
 
@@ -28,18 +28,18 @@ Follow these steps to install and set up the project:
 
     It's recommended to create a virtual environment to keep the project's dependencies isolated from other Python projects. When working with Python-version specific libraries, this is best handeled with a virutual environment so there are not conflicts with other projects on your machine. If you're using venv module, you can create a virtual environment using the following command:
 
-    'python -m .venv env'
+    `python -m .venv env`
 
     Then, activate the virtual environment. On macOS and Linux:
-    'source env/bin/activate'
+    `source env/bin/activate`
 
     On Windows:
-    '.\env\Scripts\activate'
+    `.\env\Scripts\activate`
 
 4. Install the dependencies
 
     The project's dependencies are listed in the requirements.txt file. You can install them with:
-    'pip install -r requirements.txt' 
+    `pip install -r requirements.txt` 
 
 ## Usage
 
@@ -50,4 +50,4 @@ In the 'src' directory there are several files:
 
 ## License
 
-Information about the project's license.
+Nothing yet. Please feel free to use any part of my work!
