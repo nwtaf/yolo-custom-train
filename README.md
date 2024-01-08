@@ -21,12 +21,13 @@ Follow these steps to install and set up the project:
 2. Navigate to the project directory
 
     Change your current directory to the project's directory:
-
-    `cd repository`
+   ```
+    cd repository
+   ```
 
     Replace repository with the name of your repository.
 
-3. Create a virtual environment (Optional but recommended)
+4. Create a virtual environment (Optional but recommended)
 
     It's recommended to create a virtual environment to keep the project's dependencies isolated from other Python projects. When working with Python-version specific libraries, this is best handeled with a virutual environment so there are not conflicts with other projects on your machine. If you're using venv module, you can create a virtual environment using the following command:
 
@@ -38,7 +39,7 @@ Follow these steps to install and set up the project:
     On Windows:
     `.\env\Scripts\activate`
 
-4. Install the dependencies
+5. Install the dependencies
 
     The project's dependencies are listed in the requirements.txt file. You can install them with:
     `pip install -r requirements.txt` 
