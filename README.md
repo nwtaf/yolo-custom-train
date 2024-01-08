@@ -1,4 +1,4 @@
-# Minimalist Approach to Training YOLOv8 model with Images
+# Minimalist Approach to Training Custom YOLOv8 model with Images
 
 ## Description
 
